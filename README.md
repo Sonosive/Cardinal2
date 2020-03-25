@@ -1,3 +1,0 @@
-##Cardinal
-
-Discord utility bot
